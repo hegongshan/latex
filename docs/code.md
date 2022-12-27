@@ -23,7 +23,7 @@
 * `frame=<none|leftline|topline|bottomline|lines|single|shadowbox>`：设置边框类型，默认为none
 * `basicstyle=<style>`：设置基础样式
 * `breaklines=<true|false>`：自动换行，默认为false
-* `captionpos=<subset of tb>`：设置标题的位置，t表示top，b表示bottom。
+* `captionpos=<subset of tb>`：设置标题的位置，t表示top，b表示bottom，默认为t
 * `numbers=<none|left|right>`：打印行号，默认为none
 * `numberstyle=<style>`：设置行号的字体和大小
 * `keywordstyle=<style>`：设置关键字的样式
