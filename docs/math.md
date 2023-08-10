@@ -367,6 +367,7 @@ $$
 |          $\underset{b}{a}$           | `\underset{b}{a}`  |
 |       单个字符上划线 $\bar b$        |      `\bar b`      |
 |    多个字符上划线 $\overline{ab}$    |  `\overline{ab}`   |
+|           微分算子$\nabla$           |      `\nabla`      |
 
 
 
