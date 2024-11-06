@@ -104,18 +104,6 @@ LaTex默认不支持中文，如果要在文档中显示中文，需要引入`ct
 \newpage
 ```
 
-### 设置页眉和页脚
-
-```latex
-\usepackage{fancyhdr}
-
-\fancyhf{} % 清空页眉和页脚的样式
-\fancyhead[C]{\leftmark} % 使用章名作为页眉，居中显示
-\fancyfoot[C]{\thepage} % 使用页码作为页脚，居中显示
-```
-
-`\leftmark`表示章名，`\rightmark`表示节名，`\thepage`表示页码。
-
 ### 设置页码格式
 
 设置页码格式，使用`\pagenumbering{}`，例如：
